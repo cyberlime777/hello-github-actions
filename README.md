@@ -1,5 +1,5 @@
-## Welcome to "Hello World" with GitHub Actions
+# Hello-world
 
-This course will walk you through writing your first action and using it with a workflow file. 
+Hi guys!
 
-**Ready to get started? Navigate to the first issue.**
+I'm feeling so unfamiliar to start working in github. When it comes to introducing myself, I played the chess recently. there are 5 levels with AI, reaching the third step easily, but after that i couldn't go up to the next level for twice. The game was so close but break up the third match  and finally i won. I will win next level at soon.
